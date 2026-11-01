@@ -137,3 +137,5 @@ out of Git.
 Unlabeled PRs are labeled automatically (`documentation`, `dependencies`, `bug`,
 or `enhancement`); correct the label before merging if needed. Contributions are
 MIT-licensed.
+
+<!-- read by caio -->
